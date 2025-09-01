@@ -76,7 +76,7 @@ This project leverages modern web technologies to deliver a fluid, interactive e
 
 ---
 
-## 🚀 Installation & Setup
+## 🚀 Installation & Setup OR [Play Now](https://axshul.github.io/H4CK3R-TERMINAL/)
 
 Getting started is simple:
 
