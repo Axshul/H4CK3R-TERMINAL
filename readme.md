@@ -86,5 +86,5 @@ Getting started is simple:
 
 ```bash
 git clone https://github.com/Axshul/H4CK3R-TERMINA.git
-cd H4CK3R-TERMINA
+cd H4CK3R-TERMINAL
 # Open index.html in your browser
